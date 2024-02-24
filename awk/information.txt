@@ -1,0 +1,8 @@
+firstName       lastName        age     city       ID   Departament
+
+Thomas          Shelby          30      Rio        400  Data
+Dima            Pahomov         35      Krasnodar  426  Engineering
+Wood            Tinker          54      Lisbon     N/A  Data   
+Giorgos         Georgiou        35      London     300  IT
+Timmy           Turner          32      Berlin     N/A  IT
+Dmitry          Pahom           35      KRD        25   Engineering
